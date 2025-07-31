@@ -1,4 +1,5 @@
-# Job Connect
+# Job Signature
+
 
 A responsive job board website connecting job seekers with employers.
 
