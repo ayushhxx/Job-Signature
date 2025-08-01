@@ -1,24 +1,25 @@
 export const jobsData = [
   {
     id: "1",
-    title: "Frontend Developer",
-    company: "TechCorp",
+    title: "Xactly is hiring Associate QA Engineer!",
+
+    company: "Xactly ",
     logo: "/placeholder.svg?height=100&width=100",
-    location: "San Francisco, CA",
-    salary: "$80,000 - $120,000",
+    location: "Bengaluru",
+    salary: "3LPA-6LPA",
     duration: "Full-time",
     type: "Full-time",
     description:
-      "We are looking for a skilled Frontend Developer to join our dynamic team. You will be responsible for developing user-facing web applications using modern JavaScript frameworks and ensuring excellent user experience across all devices.",
-    skills: ["React", "TypeScript", "CSS", "JavaScript", "HTML"],
-    companyProfile:
-      "TechCorp is a leading technology company focused on creating innovative solutions for businesses worldwide. We pride ourselves on our collaborative culture and commitment to excellence.",
-    applicationUrl: "https://example.com/apply/frontend-developer",
-    requirements: [
-      "3+ years of experience with React and TypeScript",
+      "Eligible Batches: 2021, 2022, 2023, 2024, 2025",
+    //skills: ["React", "TypeScript", "CSS", "JavaScript", "HTML"],
+    //companyProfile:
+      //"TechCorp is a leading technology company focused on creating innovative solutions for businesses worldwide. We pride ourselves on our collaborative culture and commitment to excellence.",
+    applicationUrl: "https://careers.xactlycorp.com/jobs/2432",
+    //requirements: [
+      /*"3+ years of experience with React and TypeScript",
       "Strong understanding of modern CSS and responsive design",
       "Experience with version control systems (Git)",
-      "Bachelor's degree in Computer Science or related field",
+      "Bachelor's degree in Computer Science or related field",*/
     ],
     benefits: [
       "Competitive salary and equity package",
