@@ -2,7 +2,7 @@ export const mockPosts = [
   {
     id: "post1",
     jobType: "full-time",
-    title: "Senior Frontend Developer",
+    title: "XACTLY",
     company: "TechCorp",
     location: "San Francisco, CA",
     salary: "$120,000 - $150,000",
