@@ -211,15 +211,15 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 pt-6 sm:pt-8">
               <div className="bg-[#0A2342] p-4 sm:p-6 rounded-lg">
-                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">10,000+</h4>
+                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">100+</h4>
                 <p className="text-white/70 text-xs sm:text-sm">Jobs Posted</p>
               </div>
               <div className="bg-[#0A2342] p-4 sm:p-6 rounded-lg">
-                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">5,000+</h4>
+                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">10+</h4>
                 <p className="text-white/70 text-xs sm:text-sm">Successful Placements</p>
               </div>
               <div className="bg-[#0A2342] p-4 sm:p-6 rounded-lg">
-                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">2,000+</h4>
+                <h4 className="font-bold text-xl sm:text-2xl text-[#2F80ED] mb-2">28+</h4>
                 <p className="text-white/70 text-xs sm:text-sm">Partner Companies</p>
               </div>
               <div className="bg-[#0A2342] p-4 sm:p-6 rounded-lg">
