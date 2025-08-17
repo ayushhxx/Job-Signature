@@ -51,7 +51,7 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-white/70">
                 <Mail size={14} className="sm:w-4 sm:h-4 flex-shrink-0" />
-                <span className="text-sm sm:text-base">contact@jobsignature.com</span>
+                <span className="text-sm sm:text-base">noreply@jobssignature.site</span>
               </div>
             </div>
           </div>
